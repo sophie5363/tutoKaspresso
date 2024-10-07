@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.kaspersky.kaspresso.tutorial.databinding.ActivityMainBinding
 import com.kaspersky.kaspresso.tutorial.flaky.FlakyActivity
 import com.kaspersky.kaspresso.tutorial.lists.NoteListActivity
-import com.kaspersky.kaspresso.tutorial.login.LoginActivity
+import com.kaspersky.kaspresso.tutorial.tutorial.LoginActivity
 import com.kaspersky.kaspresso.tutorial.notification.NotificationActivity
 import com.kaspersky.kaspresso.tutorial.permission.MakeCallActivity
 import com.kaspersky.kaspresso.tutorial.simple.SimpleActivity

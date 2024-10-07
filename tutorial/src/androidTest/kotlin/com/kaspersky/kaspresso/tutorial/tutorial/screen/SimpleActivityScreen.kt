@@ -1,4 +1,4 @@
-package com.kaspersky.kaspresso.tutorial.login.screen
+package com.kaspersky.kaspresso.tutorial.tutorial.screen
 
 import com.kaspersky.kaspresso.screens.KScreen
 import com.kaspersky.kaspresso.tutorial.R

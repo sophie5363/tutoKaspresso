@@ -2,13 +2,10 @@ package com.kaspersky.kaspresso.tutorial
 
 import androidx.test.ext.junit.rules.activityScenarioRule
 import com.kaspersky.kaspresso.testcases.api.testcase.TestCase
-import com.kaspersky.kaspresso.tutorial.MainActivity
-import com.kaspersky.kaspresso.tutorial.R
-import com.kaspersky.kaspresso.tutorial.login.screen.SimpleActivityScreen
+import com.kaspersky.kaspresso.tutorial.tutorial.screen.SimpleActivityScreen
 import org.junit.Rule
 import org.junit.Test
 import com.kaspersky.kaspresso.tutorial.screen.MainScreen
-import com.kaspersky.kaspresso.tutorial.screen.SimpleActivityScreen
 
 class SimpleActivityTest : TestCase() {
 

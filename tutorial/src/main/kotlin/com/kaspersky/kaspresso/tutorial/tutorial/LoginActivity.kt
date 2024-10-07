@@ -1,4 +1,4 @@
-package com.kaspersky.kaspresso.tutorial.login
+package com.kaspersky.kaspresso.tutorial.tutorial
 
 import android.content.Intent
 import android.os.Bundle
