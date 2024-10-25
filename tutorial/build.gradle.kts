@@ -7,6 +7,7 @@ android {
     defaultConfig {
         minSdk = 21
 
+
         applicationId = "com.kaspersky.kaspresso.tutorial"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         testInstrumentationRunnerArguments["clearPackageData"] = "true"
@@ -41,4 +42,7 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit-ktx:1.1.4")
     androidTestImplementation("com.kaspersky.android-components:kaspresso:1.5.1")
     androidTestUtil("androidx.test:orchestrator:1.4.2")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.0")
+
+
 }

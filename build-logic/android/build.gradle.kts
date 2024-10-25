@@ -3,7 +3,7 @@ plugins {
 }
 
 dependencies {
-    implementation(projects.kotlin)
+    implementation(project(":kotlin"))
     implementation(libs.kotlinPlugin)
     implementation(libs.androidPlugin)
 }
